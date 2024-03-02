@@ -9,6 +9,8 @@
 6. npm start
 7. npx expo install react-native-web react-dom @expo/metro-runtime  # for web
 8. npm start
+9. npm install -g eas-cli
+
 
 <!-- // for apk build
 9. npm install -g eas-cli
